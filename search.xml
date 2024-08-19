@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Word 基础用法</title>
+      <link href="/2024/08/20/word%20%E5%9F%BA%E7%A1%80%E7%94%A8%E6%B3%95/"/>
+      <url>/2024/08/20/word%20%E5%9F%BA%E7%A1%80%E7%94%A8%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="word基础用法"><a href="#word基础用法" class="headerlink" title="word基础用法"></a>word基础用法</h1><blockquote><p>&#x3D;lorem(段落数,每段语句数)</p><p>&#x3D;lorem(3,5)  会生成三段，每段五句内容的英文段落</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> office </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2024/08/15/hello-world/"/>
       <url>/2024/08/15/hello-world/</url>
