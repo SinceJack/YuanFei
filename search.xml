@@ -13,7 +13,9 @@
       
       <categories>
           
-          <category> office </category>
+          <category> 办公 </category>
+          
+          <category> word </category>
           
       </categories>
       
@@ -23,6 +25,8 @@
             <tag> office </tag>
             
             <tag> word </tag>
+            
+            <tag> 办公 </tag>
             
         </tags>
       
