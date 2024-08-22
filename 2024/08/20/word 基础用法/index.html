@@ -6,15 +6,23 @@
   <meta name="keywords" content=" office , word , 办公 ">
   <meta name="description" content="Word 基础用法 | 远飞的技术站">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="分享各类有趣的知识">
-<meta property="og:type" content="website">
-<meta property="og:title" content="远飞的技术站">
-<meta property="og:url" content="http://www.yuanfei.fun/index.html">
+<meta name="description" content="一、快速创建虚拟文字1. rand 生成中文 在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。   &#x3D;rand(段落数,每段语句数)   2. lorem 生成英文 &#x3D;lorem(段落数,每段语句数)    需要注意，等号之前不能有任何其他内容，">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Word 基础用法">
+<meta property="og:url" content="http://www.yuanfei.fun/2024/08/20/word%20%E5%9F%BA%E7%A1%80%E7%94%A8%E6%B3%95/index.html">
 <meta property="og:site_name" content="远飞的技术站">
-<meta property="og:description" content="分享各类有趣的知识">
+<meta property="og:description" content="一、快速创建虚拟文字1. rand 生成中文 在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。   &#x3D;rand(段落数,每段语句数)   2. lorem 生成英文 &#x3D;lorem(段落数,每段语句数)    需要注意，等号之前不能有任何其他内容，">
 <meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="http://cdn.yuanfei.fun/2024-08-22-18-09-40.png">
+<meta property="og:image" content="http://cdn.yuanfei.fun/2024-08-22-18-11-01.png">
+<meta property="article:published_time" content="2024-08-20T04:00:00.000Z">
+<meta property="article:modified_time" content="2024-08-22T10:11:10.464Z">
 <meta property="article:author" content="远飞">
+<meta property="article:tag" content="office">
+<meta property="article:tag" content="word">
+<meta property="article:tag" content="办公">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://cdn.yuanfei.fun/2024-08-22-18-09-40.png">
 
 
 <link rel="icon" href="/img/avatar.jpg">
@@ -315,7 +323,7 @@
     </div>
     <div class="article-meta">
         
-            发布时间 : <time class="date" title='最后更新: 2024-08-22 15:46:16'>2024-08-20 12:00</time>
+            发布时间 : <time class="date" title='最后更新: 2024-08-22 18:11:10'>2024-08-20 12:00</time>
         
     </div>
     <div class="article-meta">
@@ -337,7 +345,7 @@
     
     <div class="toc-ref">
     
-        <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%B8%80%E3%80%81%E7%94%9F%E6%88%90%E9%9A%8F%E6%9C%BA%E5%86%85%E5%AE%B9"><span class="toc-text">一、生成随机内容</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#1-rand-%E7%94%9F%E6%88%90%E4%B8%AD%E6%96%87"><span class="toc-text">1. rand 生成中文</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#2-lorem-%E7%94%9F%E6%88%90%E8%8B%B1%E6%96%87"><span class="toc-text">2. lorem 生成英文</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%BA%8C%E3%80%81"><span class="toc-text">二、</span></a></li></ol>
+        <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%B8%80%E3%80%81%E5%BF%AB%E9%80%9F%E5%88%9B%E5%BB%BA%E8%99%9A%E6%8B%9F%E6%96%87%E5%AD%97"><span class="toc-text">一、快速创建虚拟文字</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#1-rand-%E7%94%9F%E6%88%90%E4%B8%AD%E6%96%87"><span class="toc-text">1. rand 生成中文</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#2-lorem-%E7%94%9F%E6%88%90%E8%8B%B1%E6%96%87"><span class="toc-text">2. lorem 生成英文</span></a></li></ol></li></ol>
     
 <style>
     .left-col .switch-btn,
@@ -353,23 +361,21 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h2 id="一、生成随机内容"><a href="#一、生成随机内容" class="headerlink" title="一、生成随机内容"></a>一、生成随机内容</h2><h3 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h3><blockquote>
+        <h2 id="一、快速创建虚拟文字"><a href="#一、快速创建虚拟文字" class="headerlink" title="一、快速创建虚拟文字"></a>一、快速创建虚拟文字</h2><h3 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h3><blockquote>
 <p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p>
 </blockquote>
 <ul>
 <li>&#x3D;rand(段落数,每段语句数)</li>
 </ul>
-<p><img src="http://sikqni16e.bkt.gdipper.com/images/chinese.jpg"></p>
+<p><img src="http://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p>
 <h3 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h3><ul>
 <li>&#x3D;lorem(段落数,每段语句数)</li>
 </ul>
-<p><img src="http://sikqni16e.bkt.gdipper.com/images/english.jpg"></p>
+<p><img src="http://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p>
 <blockquote>
 <p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p>
 </blockquote>
-<p><img src="http://sikqni16e.bkt.gdipper.com/2024-08-21-23-40-45.png" alt="2024-08-21-23-40-45"></p>
-<p><img src="http://cdn.yuanfei.fun/2024-08-22-15-46-00.png" alt="2024-08-22-15-46-00"></p>
-<h2 id="二、"><a href="#二、" class="headerlink" title="二、"></a>二、</h2>
+
       
        <hr><span style="font-style: italic;color: gray;"> 转载请注明来源，欢迎对文章中的引用来源进行考证，欢迎指出任何有错误或不够清晰的表达。可以在下面评论区评论，也可以邮件至 756872006@qq.com </span>
     </div>
@@ -420,7 +426,7 @@
 
     </div>
     <div class="full-toc">
-        <button class="full" data-title="切换全屏 快捷键 s"><span class="min mobile"></span></button>
+        <button class="full" data-title="切换全屏 快捷键 s"><span class="min "></span></button>
 <a class="" id="rocket" ></a>
 
     </div>
