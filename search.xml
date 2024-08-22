@@ -188,6 +188,812 @@
     </entry>
     
     
+    
+    <entry>
+      <title>七、字体风格介绍</title>
+      <link href="/2024/08/22/7.Word%20%E5%AD%97%E4%BD%93%E9%A3%8E%E6%A0%BC%E4%BB%8B%E7%BB%8D/"/>
+      <url>/2024/08/22/7.Word%20%E5%AD%97%E4%BD%93%E9%A3%8E%E6%A0%BC%E4%BB%8B%E7%BB%8D/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>八、字符格式设置</title>
+      <link href="/2024/08/22/8.Word%20%E5%AD%97%E7%AC%A6%E6%A0%BC%E5%BC%8F%E8%AE%BE%E7%BD%AE/"/>
+      <url>/2024/08/22/8.Word%20%E5%AD%97%E7%AC%A6%E6%A0%BC%E5%BC%8F%E8%AE%BE%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>九、段落设置</title>
+      <link href="/2024/08/22/9.Word%20%E6%AE%B5%E8%90%BD%E8%AE%BE%E7%BD%AE/"/>
+      <url>/2024/08/22/9.Word%20%E6%AE%B5%E8%90%BD%E8%AE%BE%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>十、改变英文大小写</title>
+      <link href="/2024/08/22/10.Word%20%E6%94%B9%E5%8F%98%E8%8B%B1%E6%96%87%E5%A4%A7%E5%B0%8F%E5%86%99/"/>
+      <url>/2024/08/22/10.Word%20%E6%94%B9%E5%8F%98%E8%8B%B1%E6%96%87%E5%A4%A7%E5%B0%8F%E5%86%99/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>十一、艺术文字效果</title>
+      <link href="/2024/08/22/11.Word%20%E8%89%BA%E6%9C%AF%E6%96%87%E5%AD%97%E6%95%88%E6%9E%9C/"/>
+      <url>/2024/08/22/11.Word%20%E8%89%BA%E6%9C%AF%E6%96%87%E5%AD%97%E6%95%88%E6%9E%9C/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>十二、段落对齐方式调整</title>
+      <link href="/2024/08/22/12.Word%20%E6%AE%B5%E8%90%BD%E5%AF%B9%E9%BD%90%E6%96%B9%E5%BC%8F%E8%B0%83%E6%95%B4/"/>
+      <url>/2024/08/22/12.Word%20%E6%AE%B5%E8%90%BD%E5%AF%B9%E9%BD%90%E6%96%B9%E5%BC%8F%E8%B0%83%E6%95%B4/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>十三、段行间距含义及设置</title>
+      <link href="/2024/08/22/13.Word%20%E6%AE%B5%E8%A1%8C%E9%97%B4%E8%B7%9D%E5%90%AB%E4%B9%89%E5%8F%8A%E8%AE%BE%E7%BD%AE/"/>
+      <url>/2024/08/22/13.Word%20%E6%AE%B5%E8%A1%8C%E9%97%B4%E8%B7%9D%E5%90%AB%E4%B9%89%E5%8F%8A%E8%AE%BE%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>十四、标尺</title>
+      <link href="/2024/08/22/14.Word%20%E6%A0%87%E5%B0%BA/"/>
+      <url>/2024/08/22/14.Word%20%E6%A0%87%E5%B0%BA/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>十五、制表位（符）及其应用</title>
+      <link href="/2024/08/22/15.Word%20%E5%88%B6%E8%A1%A8%E4%BD%8D%EF%BC%88%E7%AC%A6%EF%BC%89%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/"/>
+      <url>/2024/08/22/15.Word%20%E5%88%B6%E8%A1%A8%E4%BD%8D%EF%BC%88%E7%AC%A6%EF%BC%89%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>十六、项目符号与编号</title>
+      <link href="/2024/08/22/16.Word%20%E9%A1%B9%E7%9B%AE%E7%AC%A6%E5%8F%B7%E4%B8%8E%E7%BC%96%E5%8F%B7/"/>
+      <url>/2024/08/22/16.Word%20%E9%A1%B9%E7%9B%AE%E7%AC%A6%E5%8F%B7%E4%B8%8E%E7%BC%96%E5%8F%B7/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>十七、理解样式含义与重要性</title>
+      <link href="/2024/08/22/17.Word%20%E7%90%86%E8%A7%A3%E6%A0%B7%E5%BC%8F%E5%90%AB%E4%B9%89%E4%B8%8E%E9%87%8D%E8%A6%81%E6%80%A7/"/>
+      <url>/2024/08/22/17.Word%20%E7%90%86%E8%A7%A3%E6%A0%B7%E5%BC%8F%E5%90%AB%E4%B9%89%E4%B8%8E%E9%87%8D%E8%A6%81%E6%80%A7/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>十八、更新匹配样式</title>
+      <link href="/2024/08/22/18.Word%20%E6%9B%B4%E6%96%B0%E5%8C%B9%E9%85%8D%E6%A0%B7%E5%BC%8F/"/>
+      <url>/2024/08/22/18.Word%20%E6%9B%B4%E6%96%B0%E5%8C%B9%E9%85%8D%E6%A0%B7%E5%BC%8F/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>十九、修改样式格式</title>
+      <link href="/2024/08/22/19.Word%20%E4%BF%AE%E6%94%B9%E6%A0%B7%E5%BC%8F%E6%A0%BC%E5%BC%8F/"/>
+      <url>/2024/08/22/19.Word%20%E4%BF%AE%E6%94%B9%E6%A0%B7%E5%BC%8F%E6%A0%BC%E5%BC%8F/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>二十、快速添加样式</title>
+      <link href="/2024/08/22/20.Word%20%E5%BF%AB%E9%80%9F%E6%B7%BB%E5%8A%A0%E6%A0%B7%E5%BC%8F/"/>
+      <url>/2024/08/22/20.Word%20%E5%BF%AB%E9%80%9F%E6%B7%BB%E5%8A%A0%E6%A0%B7%E5%BC%8F/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>二十一、样式集</title>
+      <link href="/2024/08/22/21.Word%20%E6%A0%B7%E5%BC%8F%E9%9B%86/"/>
+      <url>/2024/08/22/21.Word%20%E6%A0%B7%E5%BC%8F%E9%9B%86/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>二十二、新建样式</title>
+      <link href="/2024/08/22/22.Word%20%E6%96%B0%E5%BB%BA%E6%A0%B7%E5%BC%8F/"/>
+      <url>/2024/08/22/22.Word%20%E6%96%B0%E5%BB%BA%E6%A0%B7%E5%BC%8F/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>二十三、样式模板</title>
+      <link href="/2024/08/22/23.Word%20%E6%A0%B7%E5%BC%8F%E6%A8%A1%E6%9D%BF/"/>
+      <url>/2024/08/22/23.Word%20%E6%A0%B7%E5%BC%8F%E6%A8%A1%E6%9D%BF/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>二十四、样式插入编号</title>
+      <link href="/2024/08/22/24.Word%20%E6%A0%B7%E5%BC%8F%E6%8F%92%E5%85%A5%E7%BC%96%E5%8F%B7/"/>
+      <url>/2024/08/22/24.Word%20%E6%A0%B7%E5%BC%8F%E6%8F%92%E5%85%A5%E7%BC%96%E5%8F%B7/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>二十五、主题</title>
+      <link href="/2024/08/22/25.Word%20%E4%B8%BB%E9%A2%98/"/>
+      <url>/2024/08/22/25.Word%20%E4%B8%BB%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>二十六、使用快捷键应用样式</title>
+      <link href="/2024/08/22/26.Word%20%E4%BD%BF%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%BA%94%E7%94%A8%E6%A0%B7%E5%BC%8F/"/>
+      <url>/2024/08/22/26.Word%20%E4%BD%BF%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%BA%94%E7%94%A8%E6%A0%B7%E5%BC%8F/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>二十七、导航窗格</title>
+      <link href="/2024/08/22/27.%E5%AF%BC%E8%88%AA%E7%AA%97%E6%A0%BC/"/>
+      <url>/2024/08/22/27.%E5%AF%BC%E8%88%AA%E7%AA%97%E6%A0%BC/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>二十八、插入文档目录</title>
+      <link href="/2024/08/22/28.%E6%8F%92%E5%85%A5%E6%96%87%E6%A1%A3%E7%9B%AE%E5%BD%95/"/>
+      <url>/2024/08/22/28.%E6%8F%92%E5%85%A5%E6%96%87%E6%A1%A3%E7%9B%AE%E5%BD%95/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>二十九、插入表格</title>
+      <link href="/2024/08/22/29.%E6%8F%92%E5%85%A5%E8%A1%A8%E6%A0%BC/"/>
+      <url>/2024/08/22/29.%E6%8F%92%E5%85%A5%E8%A1%A8%E6%A0%BC/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>三十、文本转表格</title>
+      <link href="/2024/08/22/30.Word%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%A1%A8%E6%A0%BC/"/>
+      <url>/2024/08/22/30.Word%20%E6%96%87%E6%9C%AC%E8%BD%AC%E8%A1%A8%E6%A0%BC/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>三十一、制作申请表格</title>
+      <link href="/2024/08/22/31.Word%20%E5%88%B6%E4%BD%9C%E7%94%B3%E8%AF%B7%E8%A1%A8%E6%A0%BC/"/>
+      <url>/2024/08/22/31.Word%20%E5%88%B6%E4%BD%9C%E7%94%B3%E8%AF%B7%E8%A1%A8%E6%A0%BC/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>三十二、插入 Excel 表格</title>
+      <link href="/2024/08/22/32.Word%20%E6%8F%92%E5%85%A5%20Excel%20%E8%A1%A8%E6%A0%BC/"/>
+      <url>/2024/08/22/32.Word%20%E6%8F%92%E5%85%A5%20Excel%20%E8%A1%A8%E6%A0%BC/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote><p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p></blockquote><ul><li>&#x3D;rand(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p><h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul><li>&#x3D;lorem(段落数,每段语句数)</li></ul><p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p><blockquote><p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 办公 </category>
+          
+          <category> Word </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> office </tag>
+            
+            <tag> word </tag>
+            
+            <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
