@@ -2,9 +2,9 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>五十六、Word-页眉页脚奇偶页不同 | 远飞的技术站</title>
-  <meta name="keywords" content=" office , word , 办公 ">
-  <meta name="description" content="五十六、Word-页眉页脚奇偶页不同 | 远飞的技术站">
+  <title>解决 MacOS 微信 QQ 正常登录网页无法访问 | 远飞的技术站</title>
+  <meta name="keywords" content=" MacOS , 技术 ">
+  <meta name="description" content="解决 MacOS 微信 QQ 正常登录网页无法访问 | 远飞的技术站">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="description" content="分享各类有趣的知识">
 <meta property="og:type" content="website">
@@ -912,9 +912,9 @@
 </aside>
 <div id="post">
     <div class="pjax">
-        <article id="post-56.Word 页眉页脚奇偶页不同" class="article article-type-post" itemscope itemprop="blogPost">
+        <article id="post-解决 MacOS 微信 QQ 正常登录网页无法访问" class="article article-type-post" itemscope itemprop="blogPost">
     
-        <h1 class="article-title">五十六、Word-页眉页脚奇偶页不同</h1>
+        <h1 class="article-title">解决 MacOS 微信 QQ 正常登录网页无法访问</h1>
     
     <div class="article-meta">
         
@@ -924,9 +924,9 @@
             <i class="iconfont icon-category"></i>
             
             
-            <a  data-rel="办公">办公</a> > 
+            <a  data-rel="技术">技术</a> > 
             
-            <a  data-rel="办公&lt;---&gt;Word">Word</a>
+            <a  data-rel="技术&lt;---&gt;MacOS">MacOS</a>
             
         </span>
         
@@ -934,23 +934,21 @@
         <span class="tag">
             <i class="iconfont icon-tag"></i>
             
-            <a class="color2">office</a>
+            <a class="color1">MacOS</a>
             
-            <a class="color5">word</a>
-            
-            <a class="color3">办公</a>
+            <a class="color3">技术</a>
             
         </span>
         
     </div>
     <div class="article-meta">
         
-            发布时间 : <time class="date" title='最后更新: 2024-08-26 14:19:38'>2024-08-22 18:46</time>
+            发布时间 : <time class="date" title='最后更新: 2024-09-23 14:55:51'>2024-09-23 14:41</time>
         
     </div>
     <div class="article-meta">
         
-        <span>字数:119</span>
+        <span>字数:120</span>
         
         
         <span id="busuanzi_container_page_pv">
@@ -980,7 +978,7 @@
     
     <div class="toc-ref">
     
-        <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#1-rand-%E7%94%9F%E6%88%90%E4%B8%AD%E6%96%87"><span class="toc-text">1. rand 生成中文</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#2-lorem-%E7%94%9F%E6%88%90%E8%8B%B1%E6%96%87"><span class="toc-text">2. lorem 生成英文</span></a></li></ol>
+        <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%B8%80%E3%80%81%E5%88%A0%E9%99%A4-apple-%E7%BD%91%E7%BB%9C%E8%AE%B0%E5%BD%95"><span class="toc-text">一、删除 apple 网络记录</span></a></li></ol>
     
 <style>
     .left-col .switch-btn,
@@ -996,20 +994,15 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h2 id="1-rand-生成中文"><a href="#1-rand-生成中文" class="headerlink" title="1. rand 生成中文"></a>1. rand 生成中文</h2><blockquote>
-<p>在学习 word 时，有些需要一些草稿文字来测试 word 格式的设置，这个时候，就需要我们在 word 中输入一些文字，有了以下两种方法，就不要再胡乱打一些文字到 word 中了。</p>
+        <blockquote>
+<p>今天遇到一个问题，电脑可以正常登录微信、QQ 等通讯工具，但是网页无论如何也打不开。下面来看看解决思路。</p>
 </blockquote>
-<ul>
-<li>&#x3D;rand(段落数,每段语句数)</li>
-</ul>
-<p><img src="https://cdn.yuanfei.fun/2024-08-22-18-09-40.png" alt="中文"></p>
-<h2 id="2-lorem-生成英文"><a href="#2-lorem-生成英文" class="headerlink" title="2. lorem 生成英文"></a>2. lorem 生成英文</h2><ul>
-<li>&#x3D;lorem(段落数,每段语句数)</li>
-</ul>
-<p><img src="https://cdn.yuanfei.fun/2024-08-22-18-11-01.png" alt="英文"></p>
-<blockquote>
-<p><strong>需要注意，等号之前不能有任何其他内容，否则会失败。</strong></p>
+<h2 id="一、删除-apple-网络记录"><a href="#一、删除-apple-网络记录" class="headerlink" title="一、删除 apple 网络记录"></a>一、删除 apple 网络记录</h2><blockquote>
+<p>打开放大，点击上方菜单中的「前往」，复制这个路径「&#x2F;Library&#x2F;Preferences&#x2F;SystemConfiguration」，全选改文件夹下的所有文件，并找到「com.apple.Boot.plist」取消选中，删除除「com.apple.Boot.plist」之外的所有文件，重启即可。</p>
 </blockquote>
+<p><img src="https://cdn.yuanfei.fun/2024-09-23-14-51-12.png" alt="2024-09-23-14-51-12"></p>
+<p><img src="https://cdn.yuanfei.fun/2024-09-23-14-52-41.png" alt="2024-09-23-14-52-41"></p>
+<p><img src="https://cdn.yuanfei.fun/2024-09-23-14-54-40.png" alt="2024-09-23-14-54-40"></p>
 
       
        <hr><span style="font-style: italic;color: gray;"> 转载请注明来源，欢迎对文章中的引用来源进行考证，欢迎指出任何有错误或不够清晰的表达。可以在下面评论区评论，也可以邮件至 756872006@qq.com </span>
